@@ -8,6 +8,10 @@ public class GithubActionsExampleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(GithubActionsExampleApplication.class, args);
+		SpringApplication.run(GithubActionsExampleApplication.class, args);
+		SpringApplication.run(GithubActionsExampleApplication.class, args);
+		SpringApplication.run(GithubActionsExampleApplication.class, args);
+		SpringApplication.run(GithubActionsExampleApplication.class, args);
 	}
 
 }
