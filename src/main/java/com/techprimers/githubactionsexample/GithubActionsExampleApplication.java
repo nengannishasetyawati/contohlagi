@@ -12,8 +12,7 @@ public class GithubActionsExampleApplication {
 		SpringApplication.run(GithubActionsExampleApplication.class, args);
 		SpringApplication.run(GithubActionsExampleApplication.class, args);
 		SpringApplication.run(GithubActionsExampleApplication.class, args);
-		SpringApplication.run(GithubActionsExampleApplication.class, args);
 	}
-	}
-
 }
+
+
